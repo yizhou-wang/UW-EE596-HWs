@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
+
+*.pickle
+
+__pycache__/
 MNIST_data/
